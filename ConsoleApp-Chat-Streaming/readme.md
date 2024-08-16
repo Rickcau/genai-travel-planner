@@ -10,4 +10,4 @@ When designing AI systems that are intended to interact with a human it's import
 For example, let's say you want the LLM to perform some reasoning that per your testing regardless of the model it simply takes 5-10 sec to process and this is not acceptable to your users.  You have to come up with logic that allows that log running process to occur in the background.  What I like to do, is stream a summary back to the client and at the end of the stream I embed { 'JobId': '12345'}.  This tells the client there is more details they can retreive.  I expose a 2nd operation that allows the client to retreive those details using the JobID.
 
 # Link to Video for the Example
-![Video](https://www.youtube.com/watch?v=wcB8YM_g8k0)
+[Video]("https://www.youtube.com/watch?v=wcB8YM_g8k0")
