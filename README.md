@@ -10,6 +10,7 @@ The code provided uses the FeaturizeText transformation in ML.NET to convert tex
 This is a simple console app that demostrates streaming data from an ASP.NET Core REST API. You might think this is super simple but it's not. ASP.NET can actaully cause the data to be buffered or converted to a string array, even when using IAsyncEnumerable.
 
 ## api-santize-validate
+This API is used to allow vendors to submit an unstructured road trip, I leveage AI to check for harmful content, and santize as needed and convert in a structured format that can be later processed.
 
 ## api-roadtrip-input
 
