@@ -1,4 +1,5 @@
 # genai-travel-planner
-**Important Note** I am not using DevContainers because I have an issue with Docker that will requirement to reformat my laptop, and I simply have not had time to do that at the moment.
+This repo contains several examples of which I will list below.
 
-**Work in progress**
+## ConsoleApp-BagOfWords
+This console app demostrats the Bag Of Words concept 
