@@ -13,4 +13,5 @@ This is a simple console app that demostrates streaming data from an ASP.NET Cor
 This API is used to allow vendors to submit an unstructured road trip, I leveage AI to check for harmful content, and santize as needed and convert in a structured format that can be later processed.
 
 ## api-roadtrip-input
+This API is used to verify that the roadtrip data does not exceed any of our defined limits and if so it will refuse to process the data and send the client an error status.
 
