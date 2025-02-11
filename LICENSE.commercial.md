@@ -1,5 +1,5 @@
 # COMMERCIAL LICENSE AGREEMENT
-For genai-travel-planner and all parts of this repository 
+For genai-travel-planner, applies to all the solutions / projects / examples included in this repository.
 
 Effective Date: 2/10/2025
 
